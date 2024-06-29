@@ -1,1 +1,0 @@
-# Simple-Word-Docx-to-PPT-Gen
